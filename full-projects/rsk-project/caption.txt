@@ -1,0 +1,7 @@
+1495152000|RSK Ginger Release v0.2.0
+1512345600|RSK Bamboo Release v0.3.0
+1515110400|RSK Bamboo Release v0.4.0
+1536019200|RSK Orchid Release v0.5.0
+1546473600|RSK Orchid Release v0.6.0
+1563408000|RSK Wasabi Release v1.0.0
+1570320000|RSK Wasabi Release v1.1.0
