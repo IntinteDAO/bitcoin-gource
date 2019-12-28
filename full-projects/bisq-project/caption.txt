@@ -1,0 +1,14 @@
+1418256000|Bisq 0.1.0 released
+1427587200|Bisq 0.1.3 released
+1431648000|Bisq 0.2.1 released
+1432252800|Bisq 0.3.1 released
+1460073600|Bisq 0.4.0 beta released
+1468713600|Bisq 0.4.9 released
+1498608000|Bisq 0.5.0 released
+1510790400|Bisq 0.6.0 released
+1525996800|Bisq 0.7.0 released
+1534896000|Bisq 0.8.0 released
+1543795200|Bisq 0.9.0 released
+1555286400|Bisq 1.0.0 released
+1556841600|Bisq 1.1.0 released
+1572307200|Bisq 1.2.0 released
