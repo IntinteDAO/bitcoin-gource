@@ -1,0 +1,6 @@
+1456790400|First release of OpenBazaar (1.0.4)
+1459728000|OpenBazaar 1.1.0 released
+1484611200|OpenBazaar 2.0.0 released
+1517270400|OpenBazaar 2.1.0 released
+1526256000|OpenBazaar 2.2.0 released
+1547683200|OpenBazaar 2.3.0 released
